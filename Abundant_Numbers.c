@@ -15,7 +15,5 @@ int main()
         printf("True");
     }
     else
-    {
-        printf("False");
-    }
+    printf("False");
 }
